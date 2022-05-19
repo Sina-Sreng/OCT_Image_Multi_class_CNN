@@ -1,10 +1,10 @@
 # Deep learning for Multi-class Ocular Diseases Classification using OCT images 
 ## Table of contents
-* [General infomation](#general-information)
-* [Methods](#Methods)
-* [Results](#Results)
+* [Introduction](#introduction)
+* [Methods](#methods)
+* [Results](#results)
 
-## General information
+## Introduction
 This project is .............
 
 ![CNV-1569-1](https://user-images.githubusercontent.com/43255391/169264815-5c3ba14d-e6a6-43d8-896a-c05faf85f376.jpeg)
@@ -22,3 +22,6 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+<div dir="Itr">	
+	ssssssssss     
+</div>
