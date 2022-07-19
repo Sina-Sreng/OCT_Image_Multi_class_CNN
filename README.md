@@ -98,3 +98,4 @@ Dependencies included in the `requirements.txt`:
 # Authors
 - Khin Yadanar Win
 
+accuracy: 0.9690 - auc: 0.9960 - cohen_kappa: 0.9587 - f1_score: 0.9690 - precision: 0.9710 - recall: 0.9669
