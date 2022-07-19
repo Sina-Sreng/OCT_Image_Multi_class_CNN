@@ -72,7 +72,7 @@ Dependencies included in the `requirements.txt`:
  
    <tr>
     <td>ResNet50</td>
-    <td><strong>0000%</strong></td>
+    <td><strong>96.90%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
     <td><strong>0000%</strong></td>
@@ -88,14 +88,13 @@ Dependencies included in the `requirements.txt`:
   
    <tr>
     <td>MobileNetV2</td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
+    <td><strong>96.90%/strong></td>
+    <td><strong>99.60</strong></td>
+    <td><strong>96.90%</strong></td>
+    <td><strong>96.69%</strong></td>
   </tr>
 </table>
 
 # Authors
-- Khin Yadanar Win
+- Syna Sreng
 
-accuracy: 0.9690 - auc: 0.9960 - cohen_kappa: 0.9587 - f1_score: 0.9690 - precision: 0.9710 - recall: 0.9669
