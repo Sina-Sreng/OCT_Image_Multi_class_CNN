@@ -88,7 +88,7 @@ Dependencies included in the `requirements.txt`:
   
    <tr>
     <td>MobileNetV2</td>
-    <td><strong>96.90%/strong></td>
+    <td><strong>96.90%</strong></td>
     <td><strong>99.60</strong></td>
     <td><strong>96.90%</strong></td>
     <td><strong>96.69%</strong></td>
