@@ -69,23 +69,7 @@ Dependencies included in the `requirements.txt`:
     <th>Cohem Kappa</th>
     <th>F1-Score</th>
   </tr>
- 
-   <tr>
-    <td>ResNet50</td>
-    <td><strong>96.90%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-  </tr>
-  
-   <tr>
-    <td>DenseNet201</td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-    <td><strong>0000%</strong></td>
-  </tr>
-  
+
    <tr>
     <td>MobileNetV2</td>
     <td><strong>96.90%</strong></td>
